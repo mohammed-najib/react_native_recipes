@@ -1,6 +1,6 @@
 # Recipes App (Using React-Native)
 
-A sample recipes app build using react-native
+A sample recipes app built using react-native
 
 ## Installed Packages
 
