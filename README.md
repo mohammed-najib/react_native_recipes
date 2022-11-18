@@ -2,6 +2,10 @@
 
 A sample recipes app built using react-native
 
+# Things Learned
+
+1. App navigation
+
 ## Installed Packages
 
 ```sh
