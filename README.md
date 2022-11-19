@@ -6,6 +6,7 @@ A sample recipes app built using react-native
 
 1. App navigation.
 2. How to add an app drawer.
+3. How to use react context in react-native.
 
 ## Installed Packages
 
