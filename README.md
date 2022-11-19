@@ -2,7 +2,20 @@
 
 A sample recipes app built using react-native
 
-# Things Learned
+## Screenshots
+
+<p align="left">
+    <img src="./assets/readme/screenshot_1.png" alt="screenshot 1" width="200" />
+    <img src="./assets/readme/screenshot_2.png" alt="screenshot 1" width="200" />
+    <img src="./assets/readme/screenshot_3.png" alt="screenshot 1" width="200" />
+</p>
+<p align="left">
+    <img src="./assets/readme/screenshot_4.png" alt="screenshot 1" width="200" />
+    <img src="./assets/readme/screenshot_5.png" alt="screenshot 1" width="200" />
+    <img src="./assets/readme/screenshot_6.png" alt="screenshot 1" width="200" />
+</p>
+
+## Things Learned
 
 1. App navigation.
 2. How to add an app drawer.
